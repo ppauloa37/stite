@@ -22,7 +22,7 @@ body {
 
 }
  .box {
-     width: 69%;
+     width: 50%;
      background-color: rgb(196, 196, 196);
      height: 250px;
      overflow-y: auto;
