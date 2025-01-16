@@ -22,8 +22,8 @@ body {
 
 }
   .box {
-     width: 41%;
-     height: 290px;
+ width: 41%;
+     height: 306px;
      background-color: rgb(184, 184, 170);
      overflow: auto;
      overflow-x: hidden;
