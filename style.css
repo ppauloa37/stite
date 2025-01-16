@@ -21,13 +21,14 @@ body {
  
 
 }
- .box {
-     width: 50%;
-     background-color: rgb(196, 196, 196);
-     height: 250px;
-     overflow-y: auto;
+  .box {
+     width: 41%;
+     height: 290px;
+     background-color: rgb(184, 184, 170);
+     overflow: auto;
      overflow-x: hidden;
- }  
+     color: rgb(41, 41, 0);
+ }    
 
 
 
