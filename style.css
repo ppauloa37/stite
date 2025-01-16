@@ -21,7 +21,12 @@ body {
  
 
 }
-
+ .box {
+     width: 71%;
+     background-color: rgb(196, 196, 196);
+     height: 180px;
+     overflow: auto;
+ }  
 
 
 
