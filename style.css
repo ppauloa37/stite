@@ -6,12 +6,12 @@ body {
     padding: 0;
 }
 
-h1 {
+.textstyle {
     color: #333;
     text-align: center;
 }
 
-p {
+#mensagem {
     color: #555;
     text-align: center;
 }
